@@ -143,13 +143,6 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
         - type: TextareaFormControl
           name: Message
           label: Message
