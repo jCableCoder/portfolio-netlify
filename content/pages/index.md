@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Software developer, digital artist, bearded human.'
-    subtitle: I turn creativity into code
+    subtitle: I turn creativity into code.
     styles:
       self:
         height: auto
