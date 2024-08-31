@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Software developer, digital artist, bearded human.'
-    subtitle: 'Code ninja by day, super dad by night.'
+    subtitle: I turn creativity into code
     styles:
       self:
         height: auto
