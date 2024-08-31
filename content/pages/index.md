@@ -139,7 +139,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Email
           isRequired: false
           width: 1/2
           type: TextFormControl
