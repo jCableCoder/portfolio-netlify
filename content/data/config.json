@@ -40,13 +40,6 @@
                 "url": "https://github.com/jCableCoder",
                 "icon": "github",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
