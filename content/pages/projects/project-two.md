@@ -7,10 +7,6 @@ client: ''
 description: >-
   This is my first project working with APIs -- a simple weather lookup and a
   dad joke. Talk about one-stop shopping!
-featuredImage:
-  type: ImageBlock
-  url: /images/Weather Plus.png
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
