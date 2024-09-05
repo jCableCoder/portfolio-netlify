@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-09-05'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This is my first project working with APIs -- a simple weather lookup and a
+  dad joke. Talk about one-stop shopping!
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
