@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Weather + '
+title: 'Weather+ '
 colors: colors-a
 date: '2024-09-05'
 client: Awesome client
