@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Software developer, digital artist, bearded human.'
+    title: Software developer. digital artist. bearded human.
     subtitle: I turn creativity into code.
     styles:
       self:
