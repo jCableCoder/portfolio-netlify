@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: CSS
       - type: Label
         label: Vue.js
       - type: Label
