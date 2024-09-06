@@ -199,6 +199,9 @@ sections:
       - type: Label
         label: Java
       - type: Label
+        label: Unit Testing (JUnit)
+        url: ''
+      - type: Label
         label: PostgreSQL
       - type: Label
         label: HTML
