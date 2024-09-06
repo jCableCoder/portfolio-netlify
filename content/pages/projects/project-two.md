@@ -11,6 +11,7 @@ media:
   type: ImageBlock
   url: /images/Weather Plus 2.png
   altText: Project image
+  caption: 'https://weather-plus-joke.netlify.app/'
 featuredImage:
   type: ImageBlock
   url: /images/Weather Plus 2.png
