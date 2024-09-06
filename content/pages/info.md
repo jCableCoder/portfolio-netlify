@@ -202,7 +202,7 @@ sections:
         label: PostgreSQL
         url: ''
       - type: Label
-        label: PostgreSQL
+        label: JavaScript
       - type: Label
         label: HTML
       - type: Label
