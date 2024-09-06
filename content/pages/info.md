@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
+    text: >+
       ### I like to think that I bring a unique skillset to software
       development. In addition to my training as a full-stack developer via Tech
       Elevator, my competencies include content development, graphic design,
@@ -22,8 +22,6 @@ sections:
       skills and love of language to write clean, functional, well-organized
       code that flows logically, solves problems and drives innovation.
 
-
-      Plus, as you can see in the picture, I'm such a cool guy! ;)
     styles:
       self:
         height: auto
