@@ -206,7 +206,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Next.js
+        label: Unit Testing (JUnit)
       - type: Label
         label: CSS
       - type: Label
