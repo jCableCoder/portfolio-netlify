@@ -9,7 +9,7 @@ description: >-
   computer? Well say hello to the Vendo-Matic 800!
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2024-09-06 at 3.59.20 PM.png
   altText: Project image
 featuredImage:
   type: ImageBlock
