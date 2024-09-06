@@ -16,7 +16,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-06 at 3.56.18 PM.png
   altText: altText of the image
-  caption: Caption of the ixmage
+  caption: ''
   elementId: ''
 ---
 
