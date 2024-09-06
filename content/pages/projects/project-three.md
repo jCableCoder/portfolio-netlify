@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Vendo-Matic 800
 colors: colors-a
-date: '2021-12-22'
+date: '2022-01-22'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
