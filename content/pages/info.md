@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: Postman API
       - type: Label
-        label: I
+        label: IntelliJ IDEA
   - type: DividerSection
     styles:
       self:
