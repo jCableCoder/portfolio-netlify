@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: Vue.js
       - type: Label
-        label: C++
+        label: Postman API
       - type: Label
         label: Swift
   - type: DividerSection
