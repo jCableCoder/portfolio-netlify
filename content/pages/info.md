@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: React
+        label: PostgreSQL
       - type: Label
         label: Microsoft Office
       - type: Label
