@@ -34,10 +34,6 @@ sections:
       logically, solves problems and drives innovation. Please don’t hesitate to
       reach out if you’d like to connect!
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
