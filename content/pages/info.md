@@ -223,7 +223,7 @@ sections:
       - type: Label
         label: Postman API
       - type: Label
-        label: ''
+        label: I
   - type: DividerSection
     styles:
       self:
