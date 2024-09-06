@@ -4,7 +4,9 @@ title: Vendo-Matic 800
 colors: colors-a
 date: '2024-06-14'
 client: ''
-description: ''
+description: >-
+  Have you ever fantasized about ordering snacks from the comfort of your
+  computer? Well say hello to the Vendo-Matic 800!
 media:
   type: ImageBlock
   url: /images/bg3.jpg
