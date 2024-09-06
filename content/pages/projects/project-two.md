@@ -9,7 +9,7 @@ description: >-
   dad joke. Talk about one-stop shopping!
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Weather Plus 2.png
   altText: Project image
 featuredImage:
   type: ImageBlock
