@@ -13,11 +13,29 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      As a business writer and editor for the past two decades, an essential
+      component of my job has been exploring the systems and technologies that
+      fuel innovation, solve complex challenges and drive operational
+      excellence. After years of writing about disruptive technology – from
+      e-commerce to advanced driver-assistance systems – I came to the
+      realization that just writing about tech wasn’t enough. That inspired me
+      to learn the programming languages underpinning our world’s digital
+      transformation – leading me to Tech Elevator. 
+
+
+      I like to think that I bring a unique skillset to software development. In
+      addition to my training as a full-stack developer – which includes 800+
+      hours of education and application through Tech Elevator – my competencies
+      include content development, graphic design, WordPress web design, content
+      marketing and project management. I’m excited about the opportunity to
+      leverage my creativity, critical-thinking skills and love of language to
+      write clean, functional, well-organized code that flows logically, solves
+      problems and drives innovation. Please don’t hesitate to reach out if
+      you’d like to connect!
+
+      -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     media:
       type: ImageBlock
       url: /images/about.jpg
