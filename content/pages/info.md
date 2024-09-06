@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: PostgreSQL
       - type: Label
-        label: Microsoft Office
+        label: HTML
       - type: Label
         label: Next.js
       - type: Label
