@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Band Name Generator
 colors: colors-a
 date: '2024-09-09'
 client: ''
