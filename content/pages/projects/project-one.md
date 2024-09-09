@@ -16,7 +16,7 @@ featuredImage:
     11. 
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2024-09-09 at 12.37.20 PM.png
   altText: Project image
 ---
 
