@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-09-09'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Need a name for your band? Crank up the Band Name Generator! This one goes to
+  11. 
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-09 at 12.30.24 PM.png
