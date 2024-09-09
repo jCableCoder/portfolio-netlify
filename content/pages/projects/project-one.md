@@ -12,6 +12,9 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-09 at 12.30.24 PM.png
   altText: Project thumbnail image
+  caption: >-
+    Need a name for your band? Crank up the Band Name Machine! This one goes to
+    11. 
 media:
   type: ImageBlock
   url: /images/bg1.jpg
