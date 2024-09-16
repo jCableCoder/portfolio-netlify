@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Cavs Intel
-date: '2024-09-01'
+date: '2024-09-16'
 client: ''
 description: This project truly is a labor of love. I'm a diehard Cleveland Cavaliers fan
 featuredImage:
