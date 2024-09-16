@@ -42,12 +42,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/IMG_0930 2.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
