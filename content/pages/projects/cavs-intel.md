@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: CavsIntel.com
+title: Cavs Intel
 date: '2024-09-15'
 client: Awesome client
 description: >-
