@@ -10,7 +10,7 @@ featuredImage:
   altText: Cavsintel.com
   caption: >-
     Cavsintel.com, a WordPress website, combines some of my favorite things in
-    life: content creation, web design and Cleveland Cavaliers basketball. 
+    life: content creation, web design and Cleveland Cavaliers basketball!
   elementId: ''
 media:
   type: ImageBlock
