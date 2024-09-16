@@ -81,6 +81,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: Projects
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
