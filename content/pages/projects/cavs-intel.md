@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Cavs Intel
 date: '2024-09-16'
 client: ''
-description: ''
+description: >-
+  I created Cavsintel.com via WordPress in 2023, and it's been a real labor of
+  love. 
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-16 at 3.38.45 PM.png
