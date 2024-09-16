@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Cavs Intel
 date: '2024-09-15'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: This project truly is a labor of love. I'm a diehard Cleveland Cavaliers fan
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-16 at 3.38.45 PM.png
