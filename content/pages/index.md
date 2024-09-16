@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Software developer. digital artist. content creator. bearded human.
-    subtitle: I turn creativity into code ... and other stuff.
+    subtitle: I turn creativity into code and content.
     styles:
       self:
         height: auto

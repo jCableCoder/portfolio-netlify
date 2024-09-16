@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-09-09'
 client: ''
 description: >-
-  Need a name for your band? Crank up the Band Name Generator! This one goes to
+  Need a name for your band? Crank up the Band Name Machine! This one goes to
   11. 
 featuredImage:
   type: ImageBlock
