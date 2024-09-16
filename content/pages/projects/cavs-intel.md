@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2024-09-16 at 3.38.45 PM.png
   altText: CavsIntel.com
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
