@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Software developer. digital artist. bearded human.
+    title: Software developer. digital artist. content creator. bearded human.
     subtitle: I turn creativity into code.
     styles:
       self:
@@ -57,6 +57,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
+      - content/pages/projects/cavs-intel.md
       - content/pages/projects/project-one.md
     styles:
       self:
