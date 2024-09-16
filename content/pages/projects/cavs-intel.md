@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Cavs Intel
 date: '2024-09-16'
 client: ''
-description: This project truly is a labor of love. I'm a diehard Cleveland Cavaliers fan
+description: 'I created CavsIntel.com in 2023, and it''s been a real labor of love. '
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-09-16 at 3.38.45 PM.png
