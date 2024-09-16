@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Software developer. digital artist. content creator. bearded human.
-    subtitle: I turn creativity into code.
+    subtitle: I turn creativity into code ... and other stuff.
     styles:
       self:
         height: auto
@@ -42,6 +42,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/Josh Cable.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
