@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Josh Cable copy.jpg
+      url: /images/Josh Cable (1).jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
